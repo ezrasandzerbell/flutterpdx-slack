@@ -2,7 +2,7 @@ module.exports = {
   // your community or team name to display on join page.
   community: process.env.COMMUNITY_NAME || 'FlutterPDX',
   // your slack team url (ex: socketio.slack.com)
-  slackUrl: process.env.SLACK_URL || 'http://flutter.slack.com',
+  slackUrl: process.env.SLACK_URL || 'flutter.slack.com',
   // access token of slack
   // see https://github.com/outsideris/slack-invite-automation#issue-token
   //
